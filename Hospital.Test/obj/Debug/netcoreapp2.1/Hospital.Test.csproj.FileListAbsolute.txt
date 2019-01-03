@@ -1,0 +1,17 @@
+E:\TestWorkPath\WebApplication1\Hospital.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\TestWorkPath\WebApplication1\Hospital.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\TestWorkPath\WebApplication1\Hospital.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\TestWorkPath\WebApplication1\Hospital.Test\bin\Debug\netcoreapp2.1\Hospital.Test.deps.json
+E:\TestWorkPath\WebApplication1\Hospital.Test\bin\Debug\netcoreapp2.1\Hospital.Test.runtimeconfig.json
+E:\TestWorkPath\WebApplication1\Hospital.Test\bin\Debug\netcoreapp2.1\Hospital.Test.runtimeconfig.dev.json
+E:\TestWorkPath\WebApplication1\Hospital.Test\bin\Debug\netcoreapp2.1\Hospital.Test.dll
+E:\TestWorkPath\WebApplication1\Hospital.Test\bin\Debug\netcoreapp2.1\Hospital.Test.pdb
+E:\TestWorkPath\WebApplication1\Hospital.Test\bin\Debug\netcoreapp2.1\Hospital.dll
+E:\TestWorkPath\WebApplication1\Hospital.Test\bin\Debug\netcoreapp2.1\Hospital.pdb
+E:\TestWorkPath\WebApplication1\Hospital.Test\obj\Debug\netcoreapp2.1\Hospital.Test.csprojAssemblyReference.cache
+E:\TestWorkPath\WebApplication1\Hospital.Test\obj\Debug\netcoreapp2.1\Hospital.Test.csproj.CoreCompileInputs.cache
+E:\TestWorkPath\WebApplication1\Hospital.Test\obj\Debug\netcoreapp2.1\Hospital.Test.AssemblyInfoInputs.cache
+E:\TestWorkPath\WebApplication1\Hospital.Test\obj\Debug\netcoreapp2.1\Hospital.Test.AssemblyInfo.cs
+E:\TestWorkPath\WebApplication1\Hospital.Test\obj\Debug\netcoreapp2.1\Hospital.Test.csproj.CopyComplete
+E:\TestWorkPath\WebApplication1\Hospital.Test\obj\Debug\netcoreapp2.1\Hospital.Test.dll
+E:\TestWorkPath\WebApplication1\Hospital.Test\obj\Debug\netcoreapp2.1\Hospital.Test.pdb

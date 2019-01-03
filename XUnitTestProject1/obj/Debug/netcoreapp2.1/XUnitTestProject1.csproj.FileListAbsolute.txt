@@ -1,0 +1,17 @@
+E:\TestWorkPath\WebApplication1\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\TestWorkPath\WebApplication1\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\TestWorkPath\WebApplication1\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\TestWorkPath\WebApplication1\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.deps.json
+E:\TestWorkPath\WebApplication1\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.json
+E:\TestWorkPath\WebApplication1\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.dev.json
+E:\TestWorkPath\WebApplication1\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.dll
+E:\TestWorkPath\WebApplication1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csprojAssemblyReference.cache
+E:\TestWorkPath\WebApplication1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CoreCompileInputs.cache
+E:\TestWorkPath\WebApplication1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfoInputs.cache
+E:\TestWorkPath\WebApplication1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfo.cs
+E:\TestWorkPath\WebApplication1\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.pdb
+E:\TestWorkPath\WebApplication1\XUnitTestProject1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+E:\TestWorkPath\WebApplication1\XUnitTestProject1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+E:\TestWorkPath\WebApplication1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CopyComplete
+E:\TestWorkPath\WebApplication1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.dll
+E:\TestWorkPath\WebApplication1\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.pdb

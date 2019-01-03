@@ -1,0 +1,8 @@
+E:\TestWorkPath\WebApplication1\Hospital\bin\Debug\netcoreapp2.1\Hospital.deps.json
+E:\TestWorkPath\WebApplication1\Hospital\bin\Debug\netcoreapp2.1\Hospital.dll
+E:\TestWorkPath\WebApplication1\Hospital\bin\Debug\netcoreapp2.1\Hospital.pdb
+E:\TestWorkPath\WebApplication1\Hospital\obj\Debug\netcoreapp2.1\Hospital.csproj.CoreCompileInputs.cache
+E:\TestWorkPath\WebApplication1\Hospital\obj\Debug\netcoreapp2.1\Hospital.AssemblyInfoInputs.cache
+E:\TestWorkPath\WebApplication1\Hospital\obj\Debug\netcoreapp2.1\Hospital.AssemblyInfo.cs
+E:\TestWorkPath\WebApplication1\Hospital\obj\Debug\netcoreapp2.1\Hospital.dll
+E:\TestWorkPath\WebApplication1\Hospital\obj\Debug\netcoreapp2.1\Hospital.pdb

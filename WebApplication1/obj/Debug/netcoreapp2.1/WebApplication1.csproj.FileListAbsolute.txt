@@ -1,0 +1,14 @@
+E:\TestWorkPath\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+E:\TestWorkPath\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+E:\TestWorkPath\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+E:\TestWorkPath\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+E:\TestWorkPath\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+E:\TestWorkPath\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+E:\TestWorkPath\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+E:\TestWorkPath\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+E:\TestWorkPath\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+E:\TestWorkPath\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+E:\TestWorkPath\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+E:\TestWorkPath\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+E:\TestWorkPath\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+E:\TestWorkPath\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
